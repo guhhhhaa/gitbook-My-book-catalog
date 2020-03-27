@@ -10,7 +10,7 @@
 
 ## CCXT\_WIKI
 
-{% embed url="https://guhhhhaa.gitbook.io/ccxt" %}
+{% embed url="https://guhhhhaa.gitbook.io/ccxt/" %}
 
 {% embed url="https://guhhhhaa.gitbook.io/ccxt-cn/" %}
 
