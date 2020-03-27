@@ -4,6 +4,14 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
 
+### TIC,SMTC
+
+{% embed url="https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python" %}
+
+### 捐赠
+
+{% embed url="https://guhhhhaa.gitbook.io/bfm/juan-zeng" %}
+
 ## Blockchain 相关
 
 {% embed url="https://guhhhhaa.gitbook.io/blockchain/" %}
