@@ -6,7 +6,7 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/arbitrage-github/" %}
 
-## BFM文档
+## BFM 联合体文档
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
 
@@ -22,7 +22,7 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/ccxt-cn/" %}
 
-## 捐赠
+## 捐赠打赏
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/juan-zeng" %}
 
