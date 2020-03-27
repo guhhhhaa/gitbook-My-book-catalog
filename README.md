@@ -4,7 +4,7 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
 
-### TIC,SMTC
+### 「Talk is cheap. Show me the code」
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python" %}
 
