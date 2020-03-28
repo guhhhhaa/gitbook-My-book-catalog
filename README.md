@@ -6,6 +6,8 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/arbitrage-github/" %}
 
+{% embed url="https://guhhhhaa.gitbook.io/peregrine/" %}
+
 ## BFM 联合体文档
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
