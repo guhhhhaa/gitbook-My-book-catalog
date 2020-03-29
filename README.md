@@ -12,7 +12,7 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
 
-## 区块链,ICO,DeFi
+## 区块链,ICO,DeFi,DEX
 
 {% embed url="https://guhhhhaa.gitbook.io/blockchain/" %}
 
