@@ -8,11 +8,11 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/peregrine/" %}
 
-## BFM 联合体文档
+## BFM 联合体
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
 
-## 区块链相关
+## 区块链,ICO,DeFi
 
 {% embed url="https://guhhhhaa.gitbook.io/blockchain/" %}
 
