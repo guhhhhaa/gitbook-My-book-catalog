@@ -14,7 +14,7 @@
 
 ## 区块链,ICO,DeFi,DEX
 
-{% embed url="https://guhhhhaa.gitbook.io/blockchain/" %}
+{% embed url="https://guhhhhaa.gitbook.io/blockchain/defi" %}
 
 ## CCXT\_WIKI\_English
 
