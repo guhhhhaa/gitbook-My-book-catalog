@@ -28,3 +28,7 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/juan-zeng" %}
 
+{% embed url="https://guhhhhaa.gitbook.io/joinquant/" %}
+
+
+
