@@ -16,14 +16,6 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/blockchain/defi" %}
 
-## CCXT\_WIKI\_English
-
-{% embed url="https://guhhhhaa.gitbook.io/ccxt/" %}
-
-## CCXT中文文档
-
-{% embed url="https://guhhhhaa.gitbook.io/ccxt-cn/" %}
-
 ## 捐赠打赏
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/juan-zeng" %}
