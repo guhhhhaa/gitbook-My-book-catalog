@@ -1,5 +1,9 @@
 # 书架
 
+## BFM 联合体
+
+{% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
+
 ## 「Talk is cheap. Show me the code」
 
 {% embed url="https://guhhhhaa.gitbook.io/bfm/ruan-jian-bfm-on-python" %}
@@ -7,10 +11,6 @@
 {% embed url="https://guhhhhaa.gitbook.io/arbitrage-github/" %}
 
 {% embed url="https://guhhhhaa.gitbook.io/peregrine/" %}
-
-## BFM 联合体
-
-{% embed url="https://guhhhhaa.gitbook.io/bfm/" %}
 
 ## 区块链,ICO,DeFi,DEX
 
