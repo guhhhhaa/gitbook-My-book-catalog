@@ -10,8 +10,6 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/arbitrage-github/" %}
 
-{% embed url="https://guhhhhaa.gitbook.io/peregrine/" %}
-
 ## 区块链,ICO,DeFi,DEX
 
 {% embed url="https://guhhhhaa.gitbook.io/blockchain/defi" %}
