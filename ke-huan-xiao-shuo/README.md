@@ -4,6 +4,10 @@
 
 {% embed url="https://guhhhhaa.gitbook.io/-1/" %}
 
+## 创作指南：
+
+{% embed url="https://guhhhhaa.gitbook.io/-4/" %}
+
 {% embed url="https://drive.google.com/folderview?id=0BwELygENvsZXQ184NjViNTYzVXc" %}
 
 
